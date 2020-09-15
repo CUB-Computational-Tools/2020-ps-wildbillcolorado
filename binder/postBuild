@@ -1,5 +1,9 @@
 # Install JupyterLab extension
 jupyter labextension install @jupyterlab/toc
 
+## installing ternary lib 
+conda install -c conda-forge python-ternary
+
+
 # Enable nbgitpuller to pull in content
 jupyter serverextension enable --py nbgitpuller --sys-prefix
