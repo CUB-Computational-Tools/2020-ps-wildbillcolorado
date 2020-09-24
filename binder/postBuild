@@ -4,6 +4,8 @@ jupyter labextension install @jupyterlab/toc
 ## installing ternary lib 
 conda install -c conda-forge python-ternary
 
+## installing tasplot lib
+> pip install git+https://bitbucket.org/jsteven5/tasplot.git
 
 # Enable nbgitpuller to pull in content
 jupyter serverextension enable --py nbgitpuller --sys-prefix
