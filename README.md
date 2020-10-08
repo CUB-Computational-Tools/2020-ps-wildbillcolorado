@@ -81,7 +81,7 @@ Before you start designing your problem set for any given week, please complete 
 #### Binder link for final version
 
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-wildbillcolorado/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-wildbillcolorado%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-wildbillcolorado/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-wildbillcolorado%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
 # Week 4
 
